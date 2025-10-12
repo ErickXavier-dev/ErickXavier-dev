@@ -1,7 +1,7 @@
 # Hi 👋, I'm Erick Xavier
 
 A passionate Web Developer, Data Scientist from India.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TechnoTOG&label=Profile%20views&color=0e75b6&style=flat" alt="TechnoTog" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ErickXavier-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ErickXavier-dev" /> </p>
 
 ### 🕵‍♂️ About Me:
 
@@ -28,8 +28,8 @@ HTML, CSS, JS, ExpressJs, Java, Python, NodeJs
 <div align="center" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px; background: #f6f8fa;">
   <h3>GitHub Stats</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=TechnoTOG&show_icons=true&theme=dark" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechnoTOG&theme=dark" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ErickXavier-dev&show_icons=true&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickXavier-dev&theme=dark" alt="GitHub Streak Stats" />
   </p>
 </div>
 
