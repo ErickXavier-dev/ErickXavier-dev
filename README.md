@@ -31,7 +31,7 @@ Currently developing the **Smart Desk Assistant**, an ESP32-based smart system t
 <!-- ======= SKILLS ======= -->
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,python,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,python,java,git,github,vscode,azure,linux" />
 </p>
 
 ---
