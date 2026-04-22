@@ -75,7 +75,8 @@ Currently developing the **Smart Desk Assistant**, an ESP32-based smart system t
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickXavier-dev&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickXavier-dev&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErickXavier-dev&theme=github-compact&height=600" alt="Contribution Graph" />
 </p>
 
 ---
